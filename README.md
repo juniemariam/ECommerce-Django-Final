@@ -47,7 +47,7 @@ This project is a comprehensive eCommerce platform developed with Django, a powe
 ## Technologies Used
 - **Django:** Python-based web framework for backend development.
 - **HTML/CSS/JavaScript:** Frontend development for a responsive and interactive UI.
-- **Razorpay API: Payment gateway integration for secure transactions.
+- **Razorpay API:** Payment gateway integration for secure transactions.
 - **Bootstrap:** Frontend framework for responsive design and UI components.
 
 ## Setup Instructions
